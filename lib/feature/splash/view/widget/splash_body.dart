@@ -33,7 +33,7 @@ class SplashBody extends StatelessWidget {
 
                 SizedBox(height: h * 0.01),
                 Text(
-                  "قبلة المسلمين",
+                " قِبْلَةً | qibla",
                   style: TextStyle(fontSize: h * 0.05, color: Colors.black),
                 ),
                 Center(
